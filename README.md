@@ -28,6 +28,10 @@ Se comienza exportando las herramientas necesarias, se realiza la conexion con s
 
 ![image](https://user-images.githubusercontent.com/66254573/127724457-a00e06fe-a5cf-4af6-98ad-270d7373efb1.png)
 
+# Ejercicio 6
+El proceso se lo realiza por medio de la exportacion de sqlite en archivos json. Posteriormente se importa los json generados por sqlite en mongo y los json se pueden obserbar ahora en mongodb.
+
+![image](https://user-images.githubusercontent.com/66254573/127724692-29426270-97c9-4bb3-956d-d48d6bd4fbdd.png)
 
 
 # Ejercicio 7 
