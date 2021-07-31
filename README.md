@@ -23,7 +23,10 @@ Se realzia la importacion de las herramientas necesarias y se realiza la conexio
 
 ![image](https://user-images.githubusercontent.com/66254573/127723091-6f4935ef-f648-4045-a45c-9de9b9657973.png)
 
+# Ejercicio 5
+Se comienza exportando las herramientas necesarias, se realiza la conexion con sqlite por medio del nombre de la base de datos previamente creada. Se realzia la lectura de los arhivos para comprobar que se esten leyendo correctamente y posterior a ello se guardan en la BD creada denominada BD1.
 
+![image](https://user-images.githubusercontent.com/66254573/127724412-12fe3012-c53f-4945-94a2-64d734556cd5.png)
 
 
 # Ejercicio 7 
