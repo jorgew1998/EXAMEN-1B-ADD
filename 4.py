@@ -5,6 +5,7 @@ import time
 import pymongo
 from pymongo import MongoClient
 
+#conexion con mongodb
 client =pymongo.MongoClient("mongodb://localhost:27017")
 try:
     db=client["Facebook"]
@@ -13,7 +14,7 @@ except:
     db=client["Facebook"]
     collection=db["C1"]
     
-    
+#funcion para guardar en mongodb
  i=1
 for post in get_posts("Olympic", pages=50):
     print(i)
