@@ -21,7 +21,8 @@ Se empieza realizando la conexion con mongodb por medio de pymongo, se muestra e
 # Ejercicio 4
 Se realzia la importacion de las herramientas necesarias y se realiza la conexion con mongodb en donde previamente se debem crear tanto la BD como coleccion. Posteriormente se genera el codigo para que se vaya producien un documento el cual ira iterando entre los datos de Facebook y los ira guardando y ambien mostrará si se guardo o no con exito.
 
-![image](https://user-images.githubusercontent.com/66254573/127723091-6f4935ef-f648-4045-a45c-9de9b9657973.png)
+![image](https://user-images.githubusercontent.com/66254573/127725263-eb787702-5c1b-462f-ad07-5c45c9e1fd4e.png)
+
 
 # Ejercicio 5
 Se comienza exportando las herramientas necesarias, se realiza la conexion con sqlite por medio del nombre de la base de datos previamente creada. Se realzia la lectura de los arhivos para comprobar que se esten leyendo correctamente y posterior a ello se guardan en la BD creada denominada BD1.
