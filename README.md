@@ -29,4 +29,5 @@ Se realzia la importacion de las herramientas necesarias y se realiza la conexio
 # Ejercicio 7 
 Para realizar el traspaso de datos de couchdb a mongodb se debe importar las herramientas necesarias, posteriormente se realiza la conexion con couch debe por medio de la url con las correspondientes credenciales. Se continua con la conexion a mongodb. En ambos casos es necesario manejar la presentacion en apnatlla si la conexion se realizo o se tuvo algun problema. El traspaso de datos se lo realiza con una funcion for que iterara en la BD original e ira guradando los datos en relacion al id en mongodb en el caso de que ya exista ese id se mostrata un mensaje de que ya existe ese id de lo contrario con la funcion insert ira insertando en mongodb. 
 
-![image](https://user-images.githubusercontent.com/66254573/127723770-e793346f-8a2b-4bba-80ce-4cd3d980bb5f.png)
+![image](https://user-images.githubusercontent.com/66254573/127723785-c988d8e5-3466-491e-b298-ea015563fa86.png)
+
