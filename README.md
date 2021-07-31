@@ -40,6 +40,6 @@ Para realizar el traspaso de datos de couchdb a mongodb se debe importar las her
 ![image](https://user-images.githubusercontent.com/66254573/127723785-c988d8e5-3466-491e-b298-ea015563fa86.png)
 
 # Ejercicio 8
-El proceso es realizar las importaciones correspondientes, posteriormente se realiza las conexiones tanto en mongodb como en mongodb atlas. Sin embargo mi cluster se encomtraba pausado y no pude realizar la coexion por a misma razon no pude continuar con los siguientes ejercicios.
+El proceso es realizar las importaciones correspondientes, posteriormente se realiza las conexiones tanto en mongodb como en mongodb atlas. Sin embargo mi cluster se encontraba pausado y no pude realizar la coexion por a misma razon no pude continuar con los siguientes ejercicios.
 
 ![image](https://user-images.githubusercontent.com/66254573/127725198-59875a88-f608-4c80-9bb8-8d9191acf710.png)
