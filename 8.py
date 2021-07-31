@@ -27,7 +27,7 @@ except ConnectionFailure as cf:
 DBS = client1.get_database("Ejemplo1")
 db_one = DBS.C4
 
-#funcion para traspasar los datos de mongodb a atlas
+#funcion para traspasar los datos de mongodb atlas
 for db in DBS:
     if db not in ('admin', 'local','config'):  
         cols = client[db].list_collection_names()  
